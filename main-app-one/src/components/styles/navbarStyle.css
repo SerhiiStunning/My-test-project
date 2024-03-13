@@ -1,0 +1,8 @@
+.forRow {
+    justify-content: end;
+}
+
+.forRowEve {
+    justify-content: end;
+    margin-right: 23px;
+}
